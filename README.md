@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repository](https://github.com/iManchai/fem-sunny-agency-landing-page)
+- Live Site URL: [Site](https://fascinating-sunshine-cf9282.netlify.app/)
 
 ## My process
 
@@ -54,7 +54,7 @@ Keep learning using TailwindCSS and making more interesting responsive navbar.
 ## Author
 
 - Website - [Elias Fung](https://imanchai.github.io/CV/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iManchai)
+- Frontend Mentor - [@iManchai](https://www.frontendmentor.io/profile/iManchai)
 
 ## Acknowledgments
 
