@@ -1,0 +1,21 @@
+@tailwind base;
+
+@layer base {
+    html {
+        @apply text-lg
+    }
+}
+
+@tailwind components;
+@tailwind utilities;
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+#cta-1:hover + .decoration-1 {
+    opacity: 100;
+}
+
+#cta-2:hover + .decoration-2 {
+    opacity: 100;
+}
