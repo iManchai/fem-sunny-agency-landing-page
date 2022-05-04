@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository](https://github.com/iManchai/fem-sunny-agency-landing-page)
-- Live Site URL: [Site](https://fascinating-sunshine-cf9282.netlify.app/)
+- Live Site URL: [Site](https://astonishing-swan-dbe1ce.netlify.app/)
 
 ## My process
 
